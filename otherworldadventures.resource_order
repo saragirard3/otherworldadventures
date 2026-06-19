@@ -20,6 +20,7 @@
     {"name":"Tilesets","order":2,"path":"folders/Tilesets.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oSpikes","order":1,"path":"objects/oSpikes/oSpikes.yy",},
     {"name":"sfx_coin","order":1,"path":"sounds/sfx_coin/sfx_coin.yy",},
     {"name":"sfx_disappear","order":2,"path":"sounds/sfx_disappear/sfx_disappear.yy",},
     {"name":"sfx_gem","order":3,"path":"sounds/sfx_gem/sfx_gem.yy",},
